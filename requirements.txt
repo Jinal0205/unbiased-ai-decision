@@ -1,0 +1,5 @@
+flask
+flask-cors
+pandas
+aif360
+scikit-learn
